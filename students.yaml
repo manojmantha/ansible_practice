@@ -1,0 +1,43 @@
+- name: "Manoj"
+  dob: "01-01-1111"
+  email: "manoj@gmail.com"
+  addresses:
+  - flatNumber: 105
+    street: "gandhi nagar"
+    city: "Hyderabad"
+    type: "current"
+
+  - flatNumber: 101
+    street: "palabavi street"
+    city: "Banglore"
+    type: "perm"
+
+
+- name: "Manoj"
+  dob: "01-01-1111"
+  email: "manoj@gmail.com"
+  addresses:
+  - flatNumber: 105
+    street: "gandhi nagar"
+    city: "Hyderabad"
+    type: "current"
+
+  - flatNumber: 101
+    street: "palabavi street"
+    city: "Banglore"
+    type: "perm"
+
+
+- name: "Manoj"
+  dob: "01-01-1111"
+  email: "manoj@gmail.com"
+  addresses:
+  - flatNumber: 105
+    street: "gandhi nagar"
+    city: "Hyderabad"
+    type: "current"
+
+  - flatNumber: 101
+    street: "palabavi street"
+    city: "Banglore"
+    type: "perm"
