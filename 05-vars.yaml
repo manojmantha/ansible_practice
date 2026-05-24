@@ -2,12 +2,10 @@
   hosts: local
   connection: local
   vars:
-    COURSE: "DevOps with AWS"
-    DURATION: "140HRS"
-    TRAINER: "Sivakumar Reddy"
+    COURSE: "DevSecOps With AWS"
   tasks:
   - name: print variables
     vars:
-      COURSE: "ansible"
+      COURSE: "Ansible"
     ansible.builtin.debug:
-      msg: "Course is: {{ COURSE }}, Trainer is: {{ TRAINER }}"
+      msg: "Course is: {{ COURSE }}"
