@@ -1,0 +1,65 @@
+{
+    "students" : [
+        {
+            "firstName" : "manoj",
+            "dob" : "01-01-1111",
+            "addresses" : [
+                {
+                    "type" : "prem",
+                    "flatNumber" : 105,
+                    "street" : "gandhi nagar",
+                    "city" : "Hyderabad"
+                },
+                {
+                    "type" : "current",
+                    "flatNumber" : 105,
+                    "street" : "gandhi nagar",
+                    "city" : "Hyderabad"
+                }
+            ],
+            "skills" : ["java", "DevOps", "Cloud"]
+        },
+
+        {
+            "firstName" : "manoj",
+            "dob" : "01-01-1111",
+            "addresses" : [
+                {
+                    "type" : "prem",
+                    "flatNumber" : 105,
+                    "street" : "gandhi nagar",
+                    "city" : "Hyderabad"
+                },
+                {
+                    "type" : "current",
+                    "flatNumber" : 105,
+                    "street" : "gandhi nagar",
+                    "city" : "Hyderabad"
+                }
+            ],
+            "skills" : ["java", "DevOps", "Cloud"]
+        },
+
+        {
+            "firstName" : "manoj",
+            "dob" : "01-01-1111",
+            "addresses" : [
+                {
+                    "type" : "prem",
+                    "flatNumber" : 105,
+                    "street" : "gandhi nagar",
+                    "city" : "Hyderabad"
+                },
+                {
+                    "type" : "current",
+                    "flatNumber" : 105,
+                    "street" : "gandhi nagar",
+                    "city" : "Hyderabad"
+                }
+            ],
+            "skills" : ["java", "DevOps", "Cloud"]
+        }
+
+    ]
+
+}
