@@ -1,0 +1,60 @@
+<Students>
+
+    <Student>
+        <FirstName>Manoj</FirstName>
+        <DOB>01-01-1111</DOB>
+        <Email>manoj@gmail.com</Email>
+        <Addresses>
+            <PremAddress>
+                <FlatNumber>105</FlatNumber>
+                <Street>Palabavi Street</Street>
+                <City>Hyderabad</City>
+            </PremAddress>
+            <CurrentAddress>
+                <FlatNumber>101</FlatNumber>
+                <Street>Gandhi Nagar</Street>
+                <City>Banglore</City>
+            </CurrentAddress>
+        </Addresses>
+    </Student>
+
+
+    <Student>
+        <FirstName>Manoj</FirstName>
+        <DOB>01-01-1111</DOB>
+        <Email>manoj@gmail.com</Email>
+        <Addresses>
+            <PremAddress>
+                <FlatNumber>105</FlatNumber>
+                <Street>Palabavi Street</Street>
+                <City>Hyderabad</City>
+            </PremAddress>
+            <CurrentAddress>
+                <FlatNumber>101</FlatNumber>
+                <Street>Gandhi Nagar</Street>
+                <City>Banglore</City>
+            </CurrentAddress>
+        </Addresses>
+    </Student>
+
+
+    <Student>
+        <FirstName>Manoj</FirstName>
+        <DOB>01-01-1111</DOB>
+        <Email>manoj@gmail.com</Email>
+        <Addresses>
+            <PremAddress>
+                <FlatNumber>105</FlatNumber>
+                <Street>Palabavi Street</Street>
+                <City>Hyderabad</City>
+            </PremAddress>
+            <CurrentAddress>
+                <FlatNumber>101</FlatNumber>
+                <Street>Gandhi Nagar</Street>
+                <City>Banglore</City>
+            </CurrentAddress>
+        </Addresses>
+    </Student>
+
+</Students>
+
